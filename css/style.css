@@ -1,25 +1,56 @@
 @import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins:wght@400;500&family=Roboto+Serif:wght@500&display=swap");
+
 * {
-  height: 100vh;
-  width: 100vw;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
-}
-.body {
   background-color: white;
+
+}
+
+.body {
+  height: 100vh;
+  width: 100%;
   color: black;
   font-family: 'Concert One', cursive;
   font-family: 'Poppins', sans-serif;
   font-family: 'Roboto Serif', serif
 }
-.container-fluid h1{
-    text-align: center;
-    font-size: 3em;
-    font-weight: 800;
-    color: red;
-    text-decoration-line: underline;
-    text-decoration-color: yellow;
-    text-decoration-thickness: 10px;
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: 800;
+  color: red;
+  text-decoration-line: underline;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 10px;
+  border: 3px solid peru;
 }
-span{
-    color: green;
+
+.heading{
+  color: green;
+}
+h3{
+  font-size: 2.8em;
+  font-weight: 800;
+  text-align: center;
+  color: red;
+}
+hr{
+  color: rgb(191, 114, 95)
+}
+.name{
+  color: rgb(255, 255, 0);
+}
+.syst{
+  color: green;
+}
+img{
+  height: 830px;
+}
+.row img{
+  /* height: 1000px; */
+  border: 3px solid red;
+
 }
