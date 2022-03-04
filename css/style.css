@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins:wght@400;500&family=Roboto+Serif:wght@500&display=swap");
+* {
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+}
+.body {
+  background-color: white;
+  color: black;
+  font-family: 'Concert One', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Serif', serif
+}
+.container-fluid h1{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 800;
+    color: red;
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 10px;
+}
+span{
+    color: green;
+}
