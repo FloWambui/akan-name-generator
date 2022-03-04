@@ -48,6 +48,13 @@ hr{
 }
 img{
   height: 830px;
+  
+}
+
+p{
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
 }
 .row img{
   /* height: 1000px; */
