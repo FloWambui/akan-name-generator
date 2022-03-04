@@ -5,16 +5,15 @@
   padding: 0;
   box-sizing: border-box;
   background-color: white;
-
 }
 
 .body {
   height: 100vh;
   width: 100%;
   color: black;
-  font-family: 'Concert One', cursive;
-  font-family: 'Poppins', sans-serif;
-  font-family: 'Roboto Serif', serif
+  font-family: "Concert One", cursive;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto Serif", serif;
 }
 
 h1 {
@@ -25,38 +24,35 @@ h1 {
   text-decoration-line: underline;
   text-decoration-color: yellow;
   text-decoration-thickness: 10px;
-  border: 3px solid peru;
 }
 
-.heading{
+.heading {
   color: green;
 }
-h3{
+h3 {
   font-size: 2.8em;
   font-weight: 800;
   text-align: center;
   color: red;
 }
-hr{
+hr {
   color: green;
 }
-.name{
+.name {
   color: rgb(255, 255, 0);
 }
-.syst{
+.syst {
   color: green;
 }
-img{
+img {
   height: 830px;
-  
 }
-
-p{
+p {
   font-size: 20px;
   line-height: 30px;
   font-weight: 500;
 }
-.btn{
+.btn {
   width: 10cm;
   background-color: green;
   font-weight: 500;
