@@ -38,3 +38,21 @@ h1{
 .container-fluid{
     border: 10px solid red;
 }
+form{
+    /* text-align: center; */
+    font-weight: 600;
+    font-size: 14px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 820px;
+}
+label{
+    margin: 10px 10px 30px 0px;
+    display: block;
+}
+input{
+    width: 570px;
+    margin: 10px 0px 0px 5px;
+    border-radius: 5px;
+    
+}
