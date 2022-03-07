@@ -25,4 +25,12 @@ function verify(){
   else if ((female === false) && (male === false)){
     document.getElementById("error").innerHTML = "Select Gender"
   }
+
+  else if (female === true){
+    document.getElementById("discover").innerHTML = name + ",Your Akan Name is" + femaleNames[givenDay] + "..."
+  }
+
+  else if (male === true){
+    document.getElementById("discover").innerHTML = name + ",Your Akan Name is" + maleNames[givenDay] + "..."
+  }
 }
