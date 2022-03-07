@@ -27,10 +27,10 @@ function verify(){
   }
 
   else if (female === true){
-    document.getElementById("discover").innerHTML = name + ",Your Akan Name is" + femaleNames[givenDay] + "..."
+    document.getElementById("discover").innerHTML = name + ",Your Akan Name is " + femaleNames[givenDay] + "!"
   }
 
   else if (male === true){
-    document.getElementById("discover").innerHTML = name + ",Your Akan Name is" + maleNames[givenDay] + "..."
+    document.getElementById("discover").innerHTML = name + ",Your Akan Name is " + maleNames[givenDay] + "!"
   }
 }
