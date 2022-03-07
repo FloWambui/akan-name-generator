@@ -28,15 +28,12 @@ h1{
 }
 .guy{
     height: 820px;
-    border: 2px solid brown;
+    
 }
 .lady{
     height: 820px;
-    border: 3px solid palevioletred;
 
-}
-.container-fluid{
-    border: 10px solid red;
+
 }
 form{
     text-align: center;
