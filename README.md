@@ -21,7 +21,7 @@
 ![This is Discover Name Section](./assets/discover.png)
 **Live Page**
 
-> This is the link to the live page: https://flowambui.github.io/portfolio-landing-page/
+> This is the link to the live page: https://flowambui.github.io/akan-name-generator/
 
 ### Requirements
 
